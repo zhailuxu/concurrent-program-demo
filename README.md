@@ -60,7 +60,7 @@ AQS知道什么东东了，然后锁的话肯定是先看最简单的独占锁Re
 ## 更多新书，关注下面微信公众号
  
  
-![image]( https://github.com/zhailuxu/async-program-demo/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
+![image]( https://zhailuxu.github.io/assets/images/jiaduowechat.png)
 
 
 ##  我的网站
