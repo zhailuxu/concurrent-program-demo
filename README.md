@@ -1,7 +1,7 @@
 
 # 《Java并发编程之美》
-作者：翟陆续（加多），某大型互联网公司资深开发工程师，并发编程网编辑；热衷并发编程，微服务架构设计，中间件基础设施，著作《Java并发编程之美》、《Java异步编程实战》、<<深度剖析ApacheDuuo核心技术内幕》,微信公众号：技术原始积累。
 
+作者：翟陆续（加多），某大型互联网公司资深开发工程师，并发编程网编辑；热衷并发编程，微服务架构设计，中间件基础设施，著作[《深度剖析Apache Dubbo技术内幕》](https://github.com/zhailuxu/Dubbo-Demo/blob/master/README.md)、[《Java并发编程之美》](https://github.com/zhailuxu/concurrent-program-demo/blob/master/README.md)、[《Java异步编程实战》](https://github.com/zhailuxu/async-program-demo/blob/master/README.md) ,微信公众号：技术原始积累。
 
 ## 前言
 并发编程相比 Java 中其他知识点学习门槛较高，从而导致很多人望而却步。但无论是职场面试，还是高并发/高流量的系统的实现，却都离不开并发编程，于是能够真正掌握并发编程的人成为了市场迫切需求的人才。
